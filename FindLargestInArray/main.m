@@ -7,8 +7,6 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "FindLargest.h"
-
 
 
 int highestNum(NSArray* array)
